@@ -219,9 +219,6 @@ if __name__ == '__main__':
         await scrap(
             client,
             'Cape Cod, MA',
-            sold=True,
-            max_price=1000000,
-            min_price=500000,
         )
         await client.aclose()
 
