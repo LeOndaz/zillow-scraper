@@ -1,0 +1,17 @@
+{
+  "price": {
+    "min": 10000000,
+    "max": 15000000
+  },
+  "monthlyPayment": {
+    "min": 2429
+  },
+  "isForSaleByAgent":  false,
+  "isForSaleByOwner": false,
+  "isNewConstruction": false,
+  "isForSaleForeclosure": false,
+  "isComingSoon": false,
+  "isAuction": false,
+  "isRecentlySold": true,
+  "isAllHomes": true
+}
